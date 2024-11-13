@@ -1,0 +1,5 @@
+baseURL: https://chase-meyer.space/
+languageCode: en-us
+title: My Personal Website
+
+theme: ["PaperMod"]
